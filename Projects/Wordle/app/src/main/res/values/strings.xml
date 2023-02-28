@@ -3,4 +3,5 @@
     <string name="guessHere">Enter 4 letter guess here</string>
     <string name="word_to_guess">Word To Guess</string>
     <string name="guess">Guess!</string>
+    <string name="word1">help</string>
 </resources>
