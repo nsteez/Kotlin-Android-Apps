@@ -30,14 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<imgsrc='https://www.dropbox.com/s/afz72acpavbq5jn/wordle.gif?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
-<!-- Recommended tools:
-[ScreenToGif](https://www.screentogif.com/) for Windows
- -->
+![Video gif](https://www.dropbox.com/s/afz72acpavbq5jn/wordle.gif?dl=0)
 
 ## Notes
 
