@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] User can toggle between different word lists
+- [x] User can toggle between different word lists
 - [ ] User can see the 'correctness' of their guess through colors on the word
 - [ ] User sees a visual change after guessing the correct word
 - [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<imgsrc='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<imgsrc='https://www.dropbox.com/s/afz72acpavbq5jn/wordle.gif?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
@@ -41,8 +41,7 @@ GIF created with ...
 
 ## Notes
 
-Simple Wordle Game. UI changes made for a better look. 
-Features to be implemented - toggle between different lists, color correction, reset button
+Simple Wordle Game.Two Activities.
 
 ## License
 
