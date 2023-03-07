@@ -37,5 +37,6 @@ class WishlistAdapter (private val items: List<WishItem>):RecyclerView.Adapter<W
         holder.nameTextView.text = wish.name
         holder.priceTextView.text = wish.price
         holder.urlTextView.text = wish.url
+
     }
 }
