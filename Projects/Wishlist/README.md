@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-![Video gif](https://www.dropbox.com/s/w8xcie5xy8c20m0/wishlist.gif?dl=0)
+<img src='https://www.dropbox.com/s/w8xcie5xy8c20m0/wishlist.gif?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
