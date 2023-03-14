@@ -30,8 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/9LzlI0P.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![](https://i.imgur.com/9LzlI0P.gif)
+Absolute Path
+<img src='app/src/main/res/drawable-v24/movieflix.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video gif](https://i.imgur.com/9LzlI0P.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 [ScreenToGif](https://www.screentogif.com/) for Windows
