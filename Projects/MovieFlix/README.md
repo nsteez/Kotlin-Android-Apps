@@ -4,7 +4,7 @@ Submitted by: **Netti**
 
 **MovieFlix** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -30,9 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Absolute Path
-<img src='app/src/main/res/drawable-v24/movieflix.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![Video gif](https://i.imgur.com/9LzlI0P.gif)
+
+<img src='app/src/main/res/drawable-v24/movieflix.gif' title='Video Walkthrough' width='340' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 [ScreenToGif](https://www.screentogif.com/) for Windows
