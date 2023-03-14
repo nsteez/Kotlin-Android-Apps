@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.dropbox.com/s/2h6poihf7qtj7oi/movieflix.gif?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/z0gZlXO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 [ScreenToGif](https://www.screentogif.com/) for Windows
