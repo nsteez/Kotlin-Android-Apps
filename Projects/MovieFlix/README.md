@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 ![Video gif](https://i.imgur.com/9LzlI0P.gif)
 
-<img src="app/src/main/res/drawable/movieflix.gif" width="340" height="260" alt="Video Walkthrough" />
+<img src="app/src/main/res/drawable/movieflix.gif" width="300" height="360" alt="Video Walkthrough" />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
