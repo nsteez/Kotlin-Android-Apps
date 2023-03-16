@@ -40,6 +40,14 @@ class MovieFragment : Fragment(), OnListFragmentInteractionListener {
         recyclerView.layoutManager = GridLayoutManager(context, 1)
 
 
+        //
+        recyclerView
+            .addItemDecoration(
+            DividerItemDecoration(
+                context,
+                DividerItemDecoration.VERTICAL
+            )
+        )
 
         updateAdapter(progressBar,recyclerView)
         return view
