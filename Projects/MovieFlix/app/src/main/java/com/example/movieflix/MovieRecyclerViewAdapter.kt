@@ -37,7 +37,8 @@ class MovieRecyclerViewAdapter (
         }
 
         override fun onBindViewHolder(holder: MovieViewHolder, position: Int) {
-            val baseUrl = "https://image.tmdb.org/t/p/w400/"
+            val API_KEY = "a07e22bc18f5cb106bfe4cc1f83ad8ed"
+            val base_url = "https://image.tmdb.org/t/p/w400/"
             val movie = movies[position]
 
             holder.mItem = movie
@@ -45,8 +46,8 @@ class MovieRecyclerViewAdapter (
             holder.mMovieSummary.text = movie.summary
 
             Glide.with(holder.mView)
-
-                .load(baseUrl + movie.imageUrl)
+            //https://api.themoviedb.org/3/movie/now_playing?api_key=" + API_KEY + "&language=en-US"
+                .load(base_url + movie.imageUrl)
                 .centerInside()
                 .into(holder.mMovieImage)
 
