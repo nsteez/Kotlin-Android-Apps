@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 ![Video gif](https://imgur.com/a/LbFq7T5.gif)
 
-<img src='app/src/main/res/drawable/movieflix2.gif' title='Video Walkthrough' width="300" height="360" alt='Video Walkthrough' />
+<img src='app/src/main/res/drawable/movieflix25.gif' title='Video Walkthrough' width="300" height="360" alt='Video Walkthrough' />
 
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
