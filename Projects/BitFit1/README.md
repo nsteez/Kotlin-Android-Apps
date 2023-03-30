@@ -40,7 +40,7 @@ GIF created with ...
 
 ## Notes
 
-Learning the lifecycleScope
+Challenges Learning the lifecycleScope
 
 ## License
 
