@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Video gif](https://imgur.com/a/qaMHzGl.gif)
+![Video gif](https://imgur.com/a/8INrFMY)
 
 <img src='app/src/res/drawable/bitfit1.gif' title='Video Walkthrough' height='360' width='300' alt='Video Walkthrough' />
 
