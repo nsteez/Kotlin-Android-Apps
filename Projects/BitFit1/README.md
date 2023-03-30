@@ -30,9 +30,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Video gif](https://imgur.com/a/8INrFMY)
+![Video gif](https://imgur.com/a/8INrFMY.gif)
 
-<img src='app/src/res/drawable/bitfit1.gif' title='Video Walkthrough' height='360' width='300' alt='Video Walkthrough' />
+<img src='app/src/main/res/drawable/bitfit1.gif' title='Video Walkthrough' height='360' width='300' alt='Video Walkthrough' />
 
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
